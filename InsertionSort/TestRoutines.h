@@ -19,6 +19,8 @@
     unsigned int numTests;
     unsigned int totalInstructions;
     double totalTime;
+    double bestTime;
+    double worstTime;
     
 }
 
